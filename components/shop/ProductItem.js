@@ -68,7 +68,6 @@ const styles = StyleSheet.create({
     overflow: "hidden",
     borderRadius: 10,
   },
-
   imageContainer: {
     width: "100%",
     height: "60%",
@@ -81,10 +80,12 @@ const styles = StyleSheet.create({
     height: "100%",
   },
   title: {
+    // fontFamily: "open-sans-bold",
     fontSize: 18,
     marginVertical: 4,
   },
   price: {
+    // fontFamily: "open-sans",
     fontSize: 14,
     color: "#888",
   },
